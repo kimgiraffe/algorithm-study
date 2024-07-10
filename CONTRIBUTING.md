@@ -67,7 +67,7 @@ Pull Request를 생성할 때, `Label`을 추가하여 문제에 대한 본인�
 
 - `🙋‍♂️ Help`: 풀지 못했거나 도움이 필요한 문제가 있는 경우
 - `🤔 Needs Improvement`: 코드의 개선이 필요한 경우
-- `🔥 Challenging`: 30분 이상 고민할 정도로 어려웠던 문제의
+- `🔥 Challenging`: 30분 이상 고민할 정도로 어려웠던 문제의 경우
 - `✅ Solved`: 큰 막힘 없이 풀이한 경우
 
 ## PR 답안 코드 리뷰법
