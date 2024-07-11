@@ -14,10 +14,10 @@
 
 ## Leetcode
 
-| 번호  |      날짜       | 문제                                                                                                                                                            |   레벨   |
-| :---: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
-|   1   | `24.07.08.(월)` | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08) | `Medium` |
-|   2   | `24.07.09.(화)` | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)                                 | `Medium` |
-|   3   | `24.07.10.(수)` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)                                     |  `Easy`  |
-|   4   | `24.07.11.(목)` |                                                                                                                                                                 |          |
-|   5   | `24.07.12.(금)` |                                                                                                                                                                 |          |
+| 번호  |      날짜       | 문제                                                                                                                                                                                          |   레벨   |
+| :---: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
+|   1   | `24.07.08.(월)` | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=daily-question&envId=2024-07-08)                               | `Medium` |
+|   2   | `24.07.09.(화)` | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)                                                               | `Medium` |
+|   3   | `24.07.10.(수)` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)                                                                   |  `Easy`  |
+|   4   | `24.07.11.(목)` | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11) | `Medium` |
+|   5   | `24.07.12.(금)` |                                                                                                                                                                                               |          |
