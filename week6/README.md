@@ -20,4 +20,4 @@
 |   2   | `24.07.09.(화)` | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)                                                               | `Medium` |
 |   3   | `24.07.10.(수)` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)                                                                   |  `Easy`  |
 |   4   | `24.07.11.(목)` | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11) | `Medium` |
-|   5   | `24.07.12.(금)` |                                                                                                                                                                                               |          |
+|   5   | `24.07.12.(금)` | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)                           | `Medium` |
