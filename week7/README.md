@@ -14,10 +14,10 @@
 
 ## Leetcode
 
-| 번호  |      날짜       | 문제                                                                                                                                                            |   레벨   |
-| :---: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
-|   1   | `24.07.15.(월)` | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15) | `Medium` |
-|   2   | `24.07.16.(화)` |                                                                                                                                                                 |          |
-|   3   | `24.07.17.(수)` |                                                                                                                                                                 |          |
-|   4   | `24.07.18.(목)` |                                                                                                                                                                 |          |
-|   5   | `24.07.19.(금)` |                                                                                                                                                                 |          |
+| 번호  |      날짜       | 문제                                                                                                                                                                                                        |   레벨   |
+| :---: | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
+|   1   | `24.07.15.(월)` | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)                                             | `Medium` |
+|   2   | `24.07.16.(화)` | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16) | `Medium` |
+|   3   | `24.07.17.(수)` |                                                                                                                                                                                                             |          |
+|   4   | `24.07.18.(목)` |                                                                                                                                                                                                             |          |
+|   5   | `24.07.19.(금)` |                                                                                                                                                                                                             |          |
