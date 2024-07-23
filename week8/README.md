@@ -14,10 +14,10 @@
 
 ## Leetcode
 
-| 번호  |      날짜       | 문제                                                                                                                  |  레벨  |
-| :---: | :-------------: | --------------------------------------------------------------------------------------------------------------------- | :----: |
-|   1   | `24.07.22.(월)` | [Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22) | `Easy` |
-|   2   | `24.07.23.(화)` |                                                                                                                       |        |
-|   3   | `24.07.24.(수)` |                                                                                                                       |        |
-|   4   | `24.07.25.(목)` |                                                                                                                       |        |
-|   5   | `24.07.26.(금)` |                                                                                                                       |        |
+| 번호  |      날짜       | 문제                                                                                                                                                        |  레벨  |
+| :---: | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
+|   1   | `24.07.22.(월)` | [Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22)                                       | `Easy` |
+|   2   | `24.07.23.(화)` | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23) | `Easy` |
+|   3   | `24.07.24.(수)` |                                                                                                                                                             |        |
+|   4   | `24.07.25.(목)` |                                                                                                                                                             |        |
+|   5   | `24.07.26.(금)` |                                                                                                                                                             |        |
