@@ -19,5 +19,5 @@
 |   1   | `24.07.22.(월)` | [Sort the People](https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22)                                       |  `Easy`  |
 |   2   | `24.07.23.(화)` | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23) |  `Easy`  |
 |   3   | `24.07.24.(수)` | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)                     | `Medium` |
-|   4   | `24.07.25.(목)` |                                                                                                                                                             |          |
+|   4   | `24.07.25.(목)` | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25)                                           | `Medium` |
 |   5   | `24.07.26.(금)` |                                                                                                                                                             |          |
