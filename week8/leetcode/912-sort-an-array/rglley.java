@@ -1,39 +1,47 @@
 class Solution {
-    void mergeSort(int[] nums, int left, int right) {
-        if (left >= right) 
-            return;
-
-        int mid = left + (right - left) / 2;
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-        merge(nums, left, mid, right);
+    int[] numArr;
+    int[] tmp;
+    
+    public int[] sortArray(int[] nums) {
+        numArr = nums;
+        tmp = new int[nums.length];
+        mergeSort(0, nums.length - 1);
+        return nums;
     }
 
-    void merge(int[] nums, int left, int mid, int right) {
-        int[] tmp = new int[right - left + 1];
-        int leftIdx = left, rightIdx = mid + 1, mergeIdx = 0;
+    void mergeSort(int left, int right) {
+        if (left >= right)
+            return;
+
+        int mid = (left + right) / 2;
+        mergeSort(left, mid);
+        mergeSort(mid + 1, right);
+        merge(left, mid, right);
+    }
+
+    void merge(int left, int mid, int right) {
+        int leftIdx = left;
+        int rightIdx = mid + 1;
+        int tmpIdx = left;
 
         while (leftIdx <= mid && rightIdx <= right) {
-            if (nums[leftIdx] <= nums[rightIdx]) {
-                tmp[mergeIdx++] = nums[leftIdx++];
+            if (numArr[leftIdx] <= numArr[rightIdx]) {
+                tmp[tmpIdx++] = numArr[leftIdx++];
             } else {
-                tmp[mergeIdx++] = nums[rightIdx++];
+                tmp[tmpIdx++] = numArr[rightIdx++];
             }
         }
 
         while (leftIdx <= mid) {
-            tmp[mergeIdx++] = nums[leftIdx++];
+            tmp[tmpIdx++] = numArr[leftIdx++];
         }
 
         while (rightIdx <= right) {
-            tmp[mergeIdx++] = nums[rightIdx++];
+            tmp[tmpIdx++] = numArr[rightIdx++];
         }
 
-        System.arraycopy(tmp, 0, nums, left, tmp.length);
-    }
-    
-    public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
-        return nums;
+        for (int numIdx = left; numIdx <= right; numIdx++) {
+            numArr[numIdx] = tmp[numIdx];
+        }
     }
 }
