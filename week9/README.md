@@ -15,10 +15,10 @@
 
 ## Leetcode
 
-| 번호  |      날짜       | 문제                                                                                                                              |   레벨   |
-| :---: | :-------------: | --------------------------------------------------------------------------------------------------------------------------------- | :------: |
-|   1   | `24.07.29.(월)` | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29) | `Medium` |
-|   2   | `24.07.30.(화)` |                                                                                                                                   |          |
-|   3   | `24.07.31.(수)` |                                                                                                                                   |          |
-|   4   | `24.08.01.(목)` |                                                                                                                                   |          |
-|   5   | `24.08.02.(금)` |                                                                                                                                   |          |
+| 번호  |      날짜       | 문제                                                                                                                                                                      |   레벨   |
+| :---: | :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
+|   1   | `24.07.29.(월)` | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)                                         | `Medium` |
+|   2   | `24.07.30.(화)` | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30) | `Medium` |
+|   3   | `24.07.31.(수)` |                                                                                                                                                                           |          |
+|   4   | `24.08.01.(목)` |                                                                                                                                                                           |          |
+|   5   | `24.08.02.(금)` |                                                                                                                                                                           |          |
