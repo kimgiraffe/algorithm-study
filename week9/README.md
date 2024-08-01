@@ -20,5 +20,5 @@
 |   1   | `24.07.29.(월)` | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)                                         | `Medium` |
 |   2   | `24.07.30.(화)` | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30) | `Medium` |
 |   3   | `24.07.31.(수)` | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31)                                   | `Medium` |
-|   4   | `24.08.01.(목)` |                                                                                                                                                                           |          |
+|   4   | `24.08.01.(목)` | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/?envType=daily-question&envId=2024-08-01)                                 |  `Easy`  |
 |   5   | `24.08.02.(금)` |                                                                                                                                                                           |          |
