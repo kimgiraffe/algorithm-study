@@ -15,10 +15,10 @@
 
 ## Leetcode
 
-| 번호  |      날짜       | 문제                                                                                                                                                  |  레벨  |
-| :---: | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
-|   1   | `24.08.05.(월)` | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05) | `Easy` |
-|   2   | `24.08.06.(화)` |                                                                                                                                                       |        |
-|   3   | `24.08.07.(수)` |                                                                                                                                                       |        |
-|   4   | `24.08.08.(목)` |                                                                                                                                                       |        |
-|   5   | `24.08.09.(금)` |                                                                                                                                                       |        |
+| 번호  |      날짜       | 문제                                                                                                                                                                    |   레벨   |
+| :---: | :-------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
+|   1   | `24.08.05.(월)` | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05)                   |  `Easy`  |
+|   2   | `24.08.06.(화)` | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2024-08-06) | `Normal` |
+|   3   | `24.08.07.(수)` |                                                                                                                                                                         |          |
+|   4   | `24.08.08.(목)` |                                                                                                                                                                         |          |
+|   5   | `24.08.09.(금)` |                                                                                                                                                                         |          |
